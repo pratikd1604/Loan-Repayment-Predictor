@@ -1,12 +1,14 @@
 # Loan-Repayment-Predictor
 
-**Overview**
+**Overview :-**
 
 This project focuses on predicting whether a borrower will repay a loan or not using an Artificial Neural Network (ANN) and Machine Learning models. The goal is to assist financial institutions in making better lending decisions by identifying high-risk applicants in advance.
 
 Loan repayment prediction is a critical problem in the banking and finance domain, as it helps reduce non-performing assets (NPAs) and improves profitability by minimizing default risk
 
-**Objective**
+
+
+**Objective :-**
 
 -Build a classification model to predict loan repayment status
 
@@ -16,7 +18,10 @@ Loan repayment prediction is a critical problem in the banking and finance domai
 
 -Evaluate model performance using appropriate metrics
 
-**Dataset**
+
+
+**Dataset :-**
+
 Lending Club Dataset obtained from Kaggle - https://www.kaggle.com/wordsforthewise/lending-club
 
 The dataset consists of borrower-related financial and personal information such as:
@@ -32,7 +37,9 @@ Debt-to-income ratio and other risk indicators
 These features play a significant role in determining repayment ability.
 
 
-**Tech Stack**
+
+
+**Tech Stack :-**
 
 Language: Python
 
@@ -43,7 +50,9 @@ Machine Learning: Scikit-learn
 Environment: Jupyter Notebook
 
 
-**Project Workflow**
+
+
+**Project Workflow :-**
 
 1. Data Preprocessing
   Handling missing values
@@ -52,21 +61,21 @@ Environment: Jupyter Notebook
   
   Feature scaling using StandardScaler
 
-3. Exploratory Data Analysis (EDA)
-4. 
+2. Exploratory Data Analysis (EDA)
+   
   Univariate and bivariate analysis
 
   Identifying patterns and correlations
   
   Visualizing important features
 
-5. Feature Engineering
-6. 
+3. Feature Engineering
+
   Selection of relevant features
 
   Transforming variables for better model performance
 
-8. Model Building
+4. Model Building
 
   Input layer, hidden layers, and output layer
   
@@ -89,14 +98,14 @@ Environment: Jupyter Notebook
   Precision and Recall
 
 
-**Visualisation**
+**Visualisation :-**
 
 Correlation Heatmap
 
 <img width="1032" height="726" alt="image" src="https://github.com/user-attachments/assets/43691ad9-8381-4721-aff4-da59d33f0ca6" />
 
 
-**Model Comparison**
+**Model Comparison :-**
 
 Model	                |  Accuracy
 
@@ -109,7 +118,7 @@ Random Forest	        |  85%
 ANN 	                |  89%
 
 
-**Results**
+**Results :-**
 
   -The ANN model achieved an accuracy score of 89%, which is the highest among all the models tested in this project
   
