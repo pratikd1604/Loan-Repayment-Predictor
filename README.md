@@ -55,47 +55,48 @@ Environment: Jupyter Notebook
 **Project Workflow :-**
 
 1. Data Preprocessing
-  Handling missing values
-
-  Encoding categorical variables
+   
+    Handling missing values
   
-  Feature scaling using StandardScaler
+    Encoding categorical variables
+    
+    Feature scaling using StandardScaler
 
 2. Exploratory Data Analysis (EDA)
    
-  Univariate and bivariate analysis
-
-  Identifying patterns and correlations
+    Univariate and bivariate analysis
   
-  Visualizing important features
+    Identifying patterns and correlations
+    
+    Visualizing important features
 
 3. Feature Engineering
 
-  Selection of relevant features
-
-  Transforming variables for better model performance
+    Selection of relevant features
+  
+    Transforming variables for better model performance
 
 4. Model Building
 
-  Input layer, hidden layers, and output layer
-  
-  Activation functions (ReLU)
-  
-  Random Forest
-  
-  XGBOOST
+    Input layer, hidden layers, and output layer
+    
+    Activation functions (ReLU)
+    
+    Random Forest
+    
+    XGBOOST
 
-  ANN models are widely used for classification tasks due to their ability to capture complex patterns in data.
+    ANN models are widely used for classification tasks due to their ability to capture complex patterns in data.
 
 5. Model Evaluation
 
-  Accuracy
-  
-  Loss curves
-  
-  Confusion matrix
-  
-  Precision and Recall
+    Accuracy
+    
+    Loss curves
+    
+    Confusion matrix
+    
+    Precision and Recall
 
 
 **Visualisation :-**
@@ -103,6 +104,8 @@ Environment: Jupyter Notebook
 Correlation Heatmap
 
 <img width="1032" height="726" alt="image" src="https://github.com/user-attachments/assets/43691ad9-8381-4721-aff4-da59d33f0ca6" />
+
+
 
 
 **Model Comparison :-**
